@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(62, 22, 243);
+}
+
+#time {
+  font-size: 96px;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
